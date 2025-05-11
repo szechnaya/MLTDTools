@@ -31,7 +31,7 @@ deploy:
   - provider: GitHub
     description: MLTDTools
     auth_token:
-      secure: u+MFjjY665AT4PHJ2bFMINBLnnnwSj1jLnNeFZoWfeYbomTNSPOmdahffmZa+dRH
+      secure: wFH2yQxn/bay+R0qdDQ2oKtNJRbBLpgJAZT10OXvDXssRcrItDsZedSIci7b6a5Y
     artifact: 'Versioned'
     draft: false
     prerelease: false
